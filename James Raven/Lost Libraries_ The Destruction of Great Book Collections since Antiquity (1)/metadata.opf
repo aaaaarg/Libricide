@@ -3,15 +3,21 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">52a4927f-adc8-430f-8444-a24b471b63bf</dc:identifier>
-        <dc:title>Lost Libraries: The Destruction of Great Book Collections since Antiquity</dc:title>
-        <dc:creator opf:file-as="Raven, James, , ," opf:role="aut">James Raven</dc:creator>
+        <dc:title>Lost Libraries: The Destruction of Great Book Collections Since Antiquity</dc:title>
+        <dc:creator opf:file-as="Raven, James" opf:role="aut">James Raven</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2016-01-03T09:14:32+00:00</dc:date>
+        <dc:date>2004-06-11T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;This pioneering volume of essays explores the destruction of great libraries since ancient times and examines the intellectual, political and cultural consequences of loss. Fourteen original contributions, introduced by a major re-evaluative history of lost libraries, offer the first ever comparative discussion of the greatest catastrophes in book history from Mesopotamia and Alexandria to the dispersal of monastic and monarchical book collections, the Nazi destruction of Jewish libraries, and the recent horrifying pillage and burning in Tibet, Bosnia and Iraq.  &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Palgrave Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781403921192</dc:identifier>
         <dc:identifier opf:scheme="ARG">565e212e9ff37c05d9fd5056</dc:identifier>
-        <dc:language>en</dc:language>
+        <dc:identifier opf:scheme="AMAZON">1403921199</dc:identifier>
+        <dc:language>eng</dc:language>
         <meta content="{&quot;James Raven&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2016-01-03T09:14:32.860782+00:00" name="calibre:timestamp"/>
-        <meta content="Lost Libraries: The Destruction of Great Book Collections since Antiquity" name="calibre:title_sort"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2016-01-03T09:14:32+00:00" name="calibre:timestamp"/>
+        <meta content="Lost Libraries: The Destruction of Great Book Collections Since Antiquity" name="calibre:title_sort"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" title="Cover" type="cover"/>

@@ -4,13 +4,32 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">cb831439-82e2-4866-b407-222ff02a42cd</dc:identifier>
         <dc:title>Burning Books and Leveling Libraries: Extremist Violence and Cultural Destruction</dc:title>
-        <dc:creator opf:file-as="Knuth, Rebecca, , ," opf:role="aut">Rebecca Knuth</dc:creator>
+        <dc:creator opf:file-as="Knuth, Rebecca" opf:role="aut">Rebecca Knuth</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2016-01-03T09:14:31+00:00</dc:date>
+        <dc:date>2006-05-29T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Whether the product of passion or of a cool-headed decision to use ideas to rationalize excess, the decimation of the world's libraries occurred throughout the 20th century, and there is no end in sight. Cultural destruction is, therefore, of increasing concern.&lt;/p&gt;
+&lt;p&gt;In her previous book &lt;em&gt;Libricide&lt;/em&gt;, Rebecca Knuth focused on book destruction by authoritarian regimes: Nazis, Serbs in Bosnia, Iraqis in Kuwait, Maoists during the Cultural Revolution in China, and the Chinese Communists in Tibet. But authoritarian governments are not the only perpetrators. Extremists of all stripes—through terrorism, war, ethnic cleansing, genocide, and other forms of mass violence—are also responsible for widespread cultural destruction, as she demonstrates in this new book.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Burning Books and Leveling Libraries&lt;/em&gt; is structured in three parts. Part I is devoted to struggles by extremists over voice and power at the local level, where destruction of books and libraries is employed as a tactic of political or ethnic protest. Part II discusses the aftermath of power struggles in Germany, Afghanistan, and Cambodia, where the winners were utopians who purged libraries in efforts to purify their societies and maintain power. Part III examines the fate of libraries when there is war and a resulting power vacuum.&lt;/p&gt;
+&lt;p&gt;The book concludes with a discussion of the events in Iraq in 2003, and the responsibility of American war strategists for the widespread pillaging that ensued after the toppling of Saddam Hussein. This case poignantly demonstrates the ease with which an oppressed people, given the collapse of civil restraints, may claim freedom as license for anarchy, construing it as the right to prevail, while ignoring its implicit mandate of social responsibility. Using military might to enforce ideals (in this case democracy and freedom) is futile, Knuth argues, if insufficient consideration is given to humanitarian, security, and cultural concerns.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Praeger</dc:publisher>
         <dc:identifier opf:scheme="ARG">565e1e0e9ff37c05dbfd5333</dc:identifier>
-        <dc:language>en</dc:language>
+        <dc:identifier opf:scheme="AMAZON">B0029LHGFA</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Politics &amp; Social Sciences</dc:subject>
+        <dc:subject>Politics &amp; Government</dc:subject>
+        <dc:subject>International &amp; World Politics</dc:subject>
+        <dc:subject>European</dc:subject>
+        <dc:subject>Middle Eastern</dc:subject>
+        <dc:subject>Social Sciences</dc:subject>
+        <dc:subject>Library &amp; Information Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Relations</dc:subject>
+        <dc:subject>Political Science</dc:subject>
         <meta content="{&quot;Rebecca Knuth&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2016-01-03T09:14:34.755328+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2016-01-03T09:14:34+00:00" name="calibre:timestamp"/>
         <meta content="Burning Books and Leveling Libraries: Extremist Violence and Cultural Destruction" name="calibre:title_sort"/>
     </metadata>
     <guide>

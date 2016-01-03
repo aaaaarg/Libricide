@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7135d6ca-38c2-4fa5-b368-15c520456713</dc:identifier>
+        <dc:title>What Happened to the Ancient Library of Alexandria? (Library of the Written Word)</dc:title>
+        <dc:creator opf:file-as="El-Abbadi, Mostafa &amp; Fathallah, Omnia Mounir &amp; Serageldin, Ismail" opf:role="aut">Mostafa El-Abbadi</dc:creator>
+        <dc:creator opf:file-as="El-Abbadi, Mostafa &amp; Fathallah, Omnia Mounir &amp; Serageldin, Ismail" opf:role="aut">Omnia Mounir Fathallah</dc:creator>
+        <dc:creator opf:file-as="El-Abbadi, Mostafa &amp; Fathallah, Omnia Mounir &amp; Serageldin, Ismail" opf:role="aut">Ismail Serageldin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-14T15:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;In adopting the theme of What Happened to the Ancient Library of Alexandria? This book aims at presenting afresh, a highly specialized discussion of primary sources related to the diverse aspects and episodes of that long disputed question. The book covers a wide range of topics, beginning with an initial presentation of different Ancient Egyptian types of library institutions, with a special focus on the later Coptic Nag Hamadi Library. It then deals with the troubled times under later Ptolemies and Romans, when the Royal Library, the Daughter Library and the Mouseion, came under a succession of threats: Caesar's Alexandrian War in 48 B.C., and during the tragic developments in the third and fourth centuries which ultimately culminated in the destruction of the Serapeum that housed the Daughter Library.A discussion of the intellectual milieu during the fourth and fifth centuries, follows, as well as the conflicting attitudes within the Church with regard to classical learning. An analysis of historical and new archaeological evidence confirms the fact that Alexandria continued to be a city of books and scholarship centuries after the destruction of the Library. Finally, the late medieval Arab story of the destruction of the Library by order of Caliph Omar, is fully considered and refuted through textual analysis of the original sources. The contributors include: William J. Cherf, Dimitar Y. Dimitrov, Maria Dzielska, Mostafa A. El-Abbadi, Jean-Yves Empereur, Fayza M. Haikal, Georges Leroux, Bernard Lewis, Grzegorz Majcherek, Mounir H. Megally, Birger A. Pearson, Lucien X. Polastron, Qassem Abdou Qassem, and Ismail Serageldin.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Brill Academic Pub</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789004165458</dc:identifier>
+        <dc:identifier opf:scheme="ARG">565e2bff9ff37c05d9fd5069</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">9004165452</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Mostafa El-Abbadi&quot;: &quot;&quot;, &quot;Omnia Mounir Fathallah&quot;: &quot;&quot;, &quot;Ismail Serageldin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:14:34+00:00" name="calibre:timestamp"/>
+        <meta content="What Happened to the Ancient Library of Alexandria? (Library of the Written Word)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

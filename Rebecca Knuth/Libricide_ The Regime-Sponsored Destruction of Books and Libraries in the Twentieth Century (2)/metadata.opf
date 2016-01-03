@@ -4,13 +4,20 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">14a863c3-8042-45a4-a500-bb3e996f33c8</dc:identifier>
         <dc:title>Libricide: The Regime-Sponsored Destruction of Books and Libraries in the Twentieth Century</dc:title>
-        <dc:creator opf:file-as="Knuth, Rebecca, , ," opf:role="aut">Rebecca Knuth</dc:creator>
+        <dc:creator opf:file-as="Knuth, Rebecca" opf:role="aut">Rebecca Knuth</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2016-01-03T09:14:32+00:00</dc:date>
+        <dc:date>2003-07-29T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Where they have burned books, they will end in burning human beings, declared German poet Heinrich Heine. This book identifies the regime-sponsored, ideologically driven, and systemic destruction of books and libraries in the 20th century that often served as a prelude or accompaniment to the massive human tragedies that have characterized a most violent century. Using case studies of libricide committed by Nazis, Serbs in Bosnia, Iraqis in Kuwait, Maoists during the Cultural Revolution in China, and Chinese Communists in Tibet, Knuth argues that the destruction of books and libraries by authoritarian regimes was sparked by the same impulses toward negation that provoked acts of genocide or ethnocide.&lt;/p&gt;
+&lt;p&gt;Readers will learn why some people—even those not subject to authoritarian regimes—consider the destruction of books a positive process. Knuth promotes understanding of the reasons behind extremism and patterns of cultural terrorism, and concludes that what is at stake with libricide is nothing less than the preservation and continuation of the common cultural heritage of the world. Anyone committed to freedom of expression and humanistic values will embrace this passionate and valuable book.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Praeger</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780313361487</dc:identifier>
         <dc:identifier opf:scheme="ARG">565e203c9ff37c05dafd5101</dc:identifier>
-        <dc:language>en</dc:language>
+        <dc:identifier opf:scheme="AMAZON">027598088X</dc:identifier>
+        <dc:language>eng</dc:language>
         <meta content="{&quot;Rebecca Knuth&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2016-01-03T09:14:32.924975+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2016-01-03T09:14:32+00:00" name="calibre:timestamp"/>
         <meta content="Libricide: The Regime-Sponsored Destruction of Books and Libraries in the Twentieth Century" name="calibre:title_sort"/>
     </metadata>
     <guide>

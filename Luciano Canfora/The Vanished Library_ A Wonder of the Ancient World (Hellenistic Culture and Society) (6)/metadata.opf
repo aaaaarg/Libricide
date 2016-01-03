@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">416b1116-9055-4ccf-88d6-cd58905e3081</dc:identifier>
+        <dc:title>The Vanished Library: A Wonder of the Ancient World (Hellenistic Culture and Society)</dc:title>
+        <dc:creator opf:file-as="Canfora, Luciano" opf:role="aut">Luciano Canfora</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-08-28T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;The Library of Alexandria, one of the wonders of the Ancient World, has haunted Western culture for over 2,000 years. The Ptolemaic kings of Egypt—successors of Alexander the Great—had a staggering ambition: to house all of the books ever written under one roof, and the story of the universal library and its destruction still has the power to move us.  &lt;/p&gt;
+&lt;p&gt;But what was the library, and where was it? Did it exist at all? Contemporary descriptions are vague and contradictory. The fate of the precious books themselves is a subject of endless speculation.  &lt;/p&gt;
+&lt;p&gt;Canfora resolves these puzzles in one of the most unusual books of classical history ever written. He recreates the world of Egypt and the Greeks in brief chapters that marry the craft of the novelist and the discipline of the historian. Anecdotes, conversations, and reconstructions give &lt;em&gt;The Vanished Library&lt;/em&gt; the compulsion of an exotic tale, yet Canfora bases all of them on historical and literary sources, which he discusses with great panache. As the chilling conclusion to this elegant piece of historical detective work he establishes who burned the books.  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This volume has benefited from the collegial support of The Wake Forest University Studium.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>University of California Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780520072558</dc:identifier>
+        <dc:identifier opf:scheme="ARG">565e2a679ff37c05d9fd5060</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0520072553</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Luciano Canfora&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2016-01-03T09:14:34+00:00" name="calibre:timestamp"/>
+        <meta content="Vanished Library: A Wonder of the Ancient World (Hellenistic Culture and Society), The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

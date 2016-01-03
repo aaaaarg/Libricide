@@ -4,13 +4,31 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">fa087abf-49d6-47e5-80e1-bbe54a60c1fa</dc:identifier>
         <dc:title>Burning Books</dc:title>
-        <dc:creator opf:file-as="Fishburn, Matthew, , ," opf:role="aut">Matthew Fishburn</dc:creator>
+        <dc:creator opf:file-as="Fishburn, Matthew" opf:role="aut">Matthew Fishburn</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2016-01-03T09:14:31+00:00</dc:date>
+        <dc:date>2008-06-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;The Nazi burning of the books in 1933 was one of the most infamous political spectacles of the twentieth century. In Berlin and all over Germany, Nazi officials and students organized elaborate parades and bonfires to mark their embrace of Hitler’s new government. Book burning has since become the symbol of any oppressive regime, and a modern taboo. As Heinrich Heine is often quoted: ‘Where one burns books, one will soon burn people’.   &lt;/p&gt;
+&lt;p&gt;This original and provocative new work examines the impact of these fires, concentrating on the years between the Nazi outrages and the publication of Ray Bradbury’s Fahrenheit 451 in 1953, a period in which book burning took hold of the popular imagination. Much more than simply the study of a single shocking event, &lt;em&gt;Burning Books&lt;/em&gt; explores how deeply embedded the myths of book burning have become in our cultural and literary history, and illustrates the enduring appeal of a great cleansing bonfire. &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Palgrave Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780230553286</dc:identifier>
         <dc:identifier opf:scheme="ARG">565e1d569ff37c05d8fd5236</dc:identifier>
-        <dc:language>en</dc:language>
+        <dc:identifier opf:scheme="GOOGLE">tWkVAQAAIAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0230553281</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Book Burning - History</dc:subject>
+        <dc:subject>Book Burning</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Antiques &amp; Collectibles</dc:subject>
+        <dc:subject>Books</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Social History</dc:subject>
+        <dc:subject>Literary Criticism</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Censorship</dc:subject>
         <meta content="{&quot;Matthew Fishburn&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2016-01-03T09:14:34.223136+00:00" name="calibre:timestamp"/>
+        <meta content="2016-01-03T09:14:34+00:00" name="calibre:timestamp"/>
         <meta content="Burning Books" name="calibre:title_sort"/>
     </metadata>
     <guide>
